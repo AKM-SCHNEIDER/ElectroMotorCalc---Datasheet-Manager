@@ -34,7 +34,7 @@ Designed to help engineers analyze motor data, run simulations, and export detai
 
 ## 🛠️ Tech Stack
 
-- **Language**: Python 3.x
+- **Language**: Python 3.10
 - **GUI Framework**: PyQt5
 - **Data Processing**: Pandas, NumPy, SciPy
 - **Visualization**: Matplotlib
@@ -43,7 +43,6 @@ Designed to help engineers analyze motor data, run simulations, and export detai
 
 ---
 
-## 📂 Folder Structure
 
 
 

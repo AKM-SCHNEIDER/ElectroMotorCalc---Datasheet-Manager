@@ -24,7 +24,6 @@ Designed to help engineers analyze motor data, run simulations, and export detai
   - Export results to:
     - Excel (`.xlsx`)
     - Word (`.docx`)
-    - PDF
     - CSV
 
 - **⏳ Batch Processing Automation**

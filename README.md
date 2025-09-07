@@ -5,12 +5,12 @@
 
 ## 📽 Demo
 
-A full demonstration of **ElectroMotorCalc-Datasheet-Manager** is available in [`DEMO.md`](DEMO.md).  
+A full demonstration of **ElectroMotorCalc-Datasheet-Manager** is available in [`DEMO.html`](DEMO.html).  
 It includes a step-by-step explanation, screenshots/video, and a detailed workflow.
 
 > **Note:** Parts of the DEMO video are intentionally blurred to protect sensitive data, but all features are clearly shown and explained.
 
-👉 [Click here to watch the full DEMO and read the workflow](DEMO.md)
+👉 [Click here to watch the full DEMO and read the workflow](DEMO.html)
 
 
 # ElectroMotorCalc-Datasheet-Manager

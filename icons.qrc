@@ -1,0 +1,47 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>Images for Program/icons/up-arrow.png</file>
+    <file>Images for Program/icons/tickmark.png</file>
+    <file>Images for Program/icons/64px-down-arrow.png</file>
+    <file>Images for Program/icons/down-arrow (1).png</file>
+    <file>Images for Program/icons/down-arrow.png</file>
+    <file>Images for Program/icons/down-chevron (1).png</file>
+    <file>Images for Program/icons/down-chevron (2).png</file>
+    <file>Images for Program/icons/down-chevron.png</file>
+    <file>Images for Program/icons/chevron-down.svg</file>
+    <file>Images for Program/icons/24x24icon_motor.png</file>
+    <file>Images for Program/icons/arrow-left-circle.png</file>
+    <file>Images for Program/icons/arrow-right-circle.png</file>
+    <file>Images for Program/icons/24x24icon_motor1.png</file>
+    <file>Images for Program/icons/24x24icon_motor2.png</file>
+    <file>Images for Program/icons/64x64Motor_icon.png</file>
+    <file>Images for Program/icons/calculation_icon1.png</file>
+    <file>Images for Program/icons/calculation_icon2.png</file>
+    <file>Images for Program/icons/calculation_icon3.png</file>
+    <file>Images for Program/icons/calculator.png</file>
+    <file>Images for Program/icons/logo.png</file>
+    <file>Images for Program/icons/exclamationMark.png</file>
+    <file>Images for Program/icons/generator_icon1.png</file>
+    <file>Images for Program/icons/generator_icon2.png</file>
+    <file>Images for Program/icons/generator_icon3.png</file>
+    <file>Images for Program/icons/inputs_icon1.png</file>
+    <file>Images for Program/icons/inputs_icon2.png</file>
+    <file>Images for Program/icons/inputs_icon3.png</file>
+    <file>Images for Program/icons/inputs_icon4.png</file>
+    <file>Images for Program/icons/maximize_icon1.png</file>
+    <file>Images for Program/icons/maximize_icon2.png</file>
+    <file>Images for Program/icons/menu_icon1.png</file>
+    <file>Images for Program/icons/menu_icon2.png</file>
+    <file>Images for Program/icons/menu_icon3.png</file>
+    <file>Images for Program/icons/menu_icon4.png</file>
+    <file>Images for Program/icons/minimize_icon1.png</file>
+    <file>Images for Program/icons/minimize_icon2.png</file>
+    <file>Images for Program/icons/minimize_icon3.png</file>
+    <file>Images for Program/icons/motor_icon1.png</file>
+    <file>Images for Program/icons/motor_icon4.png</file>
+    <file>Images for Program/icons/motor_icon5.png</file>
+    <file>Images for Program/icons/spare-parts24x24_icon1.png</file>
+    <file>Images for Program/icons/Xexit_icon1.png</file>
+    <file>Images for Program/icons/Xexit_icon2.png</file>
+  </qresource>
+</RCC>

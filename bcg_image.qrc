@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="bcg_image">
+    <file>Images for Program/png_worldwide.png</file>
+  </qresource>
+</RCC>

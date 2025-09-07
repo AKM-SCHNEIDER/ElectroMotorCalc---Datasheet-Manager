@@ -5,11 +5,7 @@
 
 **Watch the demo below:**
 
-<video width="640" height="360" controls>
-  <source src="./Demo_Video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+[Watch the demo video](./Demo_Video.mp4)
 
 ---
 

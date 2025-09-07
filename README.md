@@ -1,3 +1,6 @@
+# **⚠️ Important Notice:**
+**Please read the LICENSE.md file first** 
+
 # ElectroMotorCalc-Datasheet-Manager
 
 A professional **PyQt5-based desktop application** for **electric motor performance analysis, simulation, and reporting**.  

@@ -77,4 +77,4 @@ class Ui_MainWindow(object):
         MainWindow.setWindowTitle(_translate("MainWindow", "MainWindow"))
         self.Drehzahl_label.setText(_translate("MainWindow", "Drehzahl [1/min]"))
         self.Drehmoment_label.setText(_translate("MainWindow", "Drehmoment [Nm]"))
-import ui_windows.bcg_image_rc as bcg_image_rc
+import bcg_image_rc

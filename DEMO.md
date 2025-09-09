@@ -50,5 +50,3 @@ And finally, with a single click, the **one-click all-motor calculation** proces
 It’s the ultimate dataset for **development, research, and optimization** — all in one place, without touching a calculator.  
 
 ---
-
-This is **ElectroMotorCalc-Datasheet-Manager** — a tool that doesn’t just calculate; it empowers both the **engineering team** and the **constructor** to work faster, smarter, and with complete confidence.

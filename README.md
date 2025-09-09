@@ -1,5 +1,5 @@
 # **⚠️ Important Notice:**
-**Please read the [`LICENSE.md`](LICENSE.m) file first**
+**Please read the [`LICENSE.md`](LICENSE.md) file first**
 
 ---
 

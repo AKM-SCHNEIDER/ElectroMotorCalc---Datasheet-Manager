@@ -7,8 +7,8 @@
 
 https://github.com/user-attachments/assets/435f6d30-dc0e-4106-b49d-ebf8c2d80d47
 
-
-[▶ for the **FHD** Video: Watch the demo video on Google Drive](https://drive.google.com/file/d/157MRnnTD5F47BV5AcckDzj1jsog_o_DI/view?usp=sharing)
+## ▶ for the **FHD** Video:
+[Click here to Watch the FHD Demo video](https://drive.google.com/file/d/157MRnnTD5F47BV5AcckDzj1jsog_o_DI/view?usp=sharing)
 
 ---
 

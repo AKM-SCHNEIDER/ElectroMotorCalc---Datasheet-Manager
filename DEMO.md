@@ -4,11 +4,9 @@
 ---
 
 **Watch the demo below:**
-
-[Watch the demo video](./Demo_Video.mp4)
-
 > If you see **(Sorry about that, but we can’t show files that are this big right now.)** just click **View raw** and the video will be downloaded so you can watch it.
 
+[▶ for the **FHD** Video: Watch the demo video on Google Drive](https://drive.google.com/file/d/157MRnnTD5F47BV5AcckDzj1jsog_o_DI/view?usp=sharing)
 ---
 
 ## 📽 Demo Workflow — ElectroMotorCalc-Datasheet-Manager
